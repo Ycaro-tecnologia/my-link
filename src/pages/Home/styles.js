@@ -69,10 +69,11 @@ background-color: rgba(255,255,255, 0.15);
 border-top-left-radius: 7px;
 border-bottom-left-radius: 7px;
 font-size: 17px;
+color: #fff;
 `;
 
 
-export const ButtonLink = styled.View`
+export const ButtonLink = styled.Text`
 align-items: center;
 justify-content: center;
 height: 45px;
@@ -83,7 +84,9 @@ margin-bottom: 15px;
 `;
 
 
-export const ButtonLinkText = styled.View`
+export const ButtonLinkText = styled.Text`
 font-size: 18px;
+align-items: center;
+flex-direction: column;
 `;
 
