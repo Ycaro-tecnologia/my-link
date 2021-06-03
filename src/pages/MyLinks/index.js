@@ -20,7 +20,7 @@ export default function MyLinks() {
             <Title>Aqui está a MyLinks</Title>
 
             <ListLinks 
-             data={[{ id: 1, link: 'test.com'}, { id: 2, link: 'test.com'} ]}
+             data={[ 1, 3, 4, 5, 6, 7, 123, 1, 1 ]}
              keyExtractor={ (item) => String(item.id)}
              renderItem={ ({item}) => <ListItem data={item} />}
              contentContainerStyle={{ paddingBottom: 20}}
