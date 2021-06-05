@@ -41,6 +41,9 @@ O MyLinks é um projeto que encurta os links através de acesso a uma api do bit
 
 ## ✨ Mobile
 
+
+
+
 <img  alt="MyLink" title="Aplicativo para encurtar links"  src=  "/.github/mobile.gif" />
 
 
